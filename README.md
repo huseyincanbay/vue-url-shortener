@@ -1,4 +1,4 @@
-# Url Shortener app built with Vue.js and Firebase
+# Url Shortener App built with Vue.js and Firebase
 
 This template should help get you started developing with Vue 3 in Vite.
 
