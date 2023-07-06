@@ -30,7 +30,7 @@ export default {
       <h1 class="favorilerim-title-1">Favoriler.im</h1>
       <h2 class="favorilerim-title-2">Favoriler.im</h2>
       <p class="description">
-        Favoriler.im ile kolayca linklerinizi kısaltın ve para kazanın! Ücretsiz
+        Kolayca linklerinizi kısaltın ve para kazanın! Ücretsiz
         üye olun ve hemen başlayın.
       </p>
       <form class="link-form" @submit.prevent="shortenLink">
